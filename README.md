@@ -43,13 +43,13 @@ The project contains four interactive dashboard pages covering:
 ![Category Analysis](screenshots/category-subcategory-analysis.png)
 
 ### 2. Geographic Sales Analysis
-![Geographic Analysis](screenshots/geographic-analysis.png)
+![Geographic Sales Analysis](screenshots/regional-analysis.png)
 
 ### 3. Segment & Profit Analysis
-![Segment Analysis](screenshots/segment-analysis.png)
+![Segment & Profit Analysis](screenshots/sales-profit-analysis.png)
 
 ### 4. Sales, Quantity & Shipping Analysis
-![Shipping Analysis](screenshots/dashboard-overview.png)
+![Shipping Performance Analysis](screenshots/shipping-performance-analysis.png)
 
 ## 🎯 Objective
 
