@@ -58,6 +58,8 @@ interactive business intelligence dashboard that helps identify sales
 trends, profitable segments, high-performing categories, and geographic
 patterns.
 
+Update README documentation
+
 ## 👤 Author
 
 Priyansu Choudhury
